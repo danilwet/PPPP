@@ -1,5 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  Source1.cpp
-C:\Users\79109\source\repos\Project1\Project1\Source1.cpp(43,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\79109\source\repos\Project1\Project1\Source1.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Project1.vcxproj -> C:\Users\79109\source\repos\Project1\Debug\lab1PPPP.exe
